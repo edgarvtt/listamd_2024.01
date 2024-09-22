@@ -5,5 +5,5 @@ Grupo:
 
 - Edgar Vitor Costa Barros de Moura
 - Estevão Pessoa Neves da Fonseca
-... 
+- Vinícius Gabriel Silva Santiago ...
 
